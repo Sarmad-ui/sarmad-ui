@@ -9,7 +9,7 @@
 
 ###  About Me
 
-- 🎓 I'm a **BS Data Science** undergraduate based in Lahore, Pakistan
+- 🎓 I'm a **BS Data Science** undergraduate based in PUCIT, Lahore, Pakistan
 - 🔐 Currently a **Security Intern at Defenix**, training in offensive & defensive security
 - 🧪 Running my own **self-directed SOC Analyst practice lab** — building real detection scenarios
 - 🌱 Currently working on Python libraries such as **Numpy and Pandas** that are useful for the Data Sience and Analysis
